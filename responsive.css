@@ -48,6 +48,10 @@
   
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
+    color: #fff;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
     display: block;
   }
   
