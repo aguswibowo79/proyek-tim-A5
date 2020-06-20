@@ -132,11 +132,11 @@ header {
 
 /* Tambahkan CSS untuk menu-icon */
 .menu-icon {
- 
-  float: right;
-  
- 
-  display: none;
+   color: white;
+   font-size: 25px;
+   padding: 21px 0;
+   float: right;
+   display: none;
 }
 
 .lesson-wrapper {
