@@ -132,6 +132,10 @@ header {
 
 /* Tambahkan CSS untuk menu-icon */
 .menu-icon {
+ 
+  float: right;
+  
+ 
   display: none;
 }
 
