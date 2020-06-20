@@ -145,7 +145,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: rgba(75, 0, 0, 0.8);
   text-align: center;
 }
 
@@ -168,6 +168,11 @@ header {
   position: relative;
 }
 
+.lesson-icon img {
+  width: 240px;
+  height: 260px;
+}
+
 .lesson-icon p {
   position: absolute;
   top: 44%;
@@ -179,8 +184,8 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 15px;
-  color: #b3aeb5;
+  font-size: 20px;
+  color: #fff;
 }
 
 .heading h3 {
@@ -195,9 +200,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #f88787;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #4b0000;
 }
 
 .message:active {
