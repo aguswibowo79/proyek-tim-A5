@@ -26,6 +26,7 @@ a {
   padding: 50px 0 220px 0;
   background-image: url(top3.png);
   background-size: cover;
+  background-position: center;
   color: rgba(75, 0, 0, 0.9);
   text-align: center;
 }
