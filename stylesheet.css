@@ -140,7 +140,6 @@ header {
   display:none;
 }
 
-
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -152,7 +151,7 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: white;
+  color: #fff;
 }
 
 .heading h2 {
