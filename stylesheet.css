@@ -133,7 +133,7 @@ header {
 /* Tambahkan CSS untuk menu-icon */
 .menu-icon {
   display: none;
-  color: white;
+  color: #fff;
   float: right;
   font-size: 25px;
   padding: 21px 0;
