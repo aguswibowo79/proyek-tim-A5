@@ -132,11 +132,11 @@ header {
 
 /* Tambahkan CSS untuk menu-icon */
 .menu-icon {
-   display: none;
+   display:none;
 }
 
 .fa-bars {
-  display: none;
+  display:none;
 }
 
 .lesson-wrapper {
