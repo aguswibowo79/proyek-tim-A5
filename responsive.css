@@ -14,7 +14,11 @@
   }
 
   .menu-icon {
-    display: none;
+    display:none;
+  }
+  
+  .fa-bars {
+    display:none;
   }
 }
 
