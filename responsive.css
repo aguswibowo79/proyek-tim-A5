@@ -48,7 +48,11 @@
   
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
-    display: block;
+   color: white;
+   font-size: 25px;
+   padding: 21px 0;
+   float: right;
+   display: block;
   }
   
   .top-wrapper h1 {
